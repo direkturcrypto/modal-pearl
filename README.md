@@ -24,7 +24,7 @@ nohup modal run pearlhash_modal.py > pearlhash.log 2>&1 &
 
 ## Wallet
 
-Change `WALLET` in each script.
+Change `0x6ce2e1f271f98fff5dea2daf4e5b6aed993ceb15` in each script.
 
 ## Monitoring
 
